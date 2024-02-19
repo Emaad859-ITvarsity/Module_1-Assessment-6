@@ -1,0 +1,28 @@
+.gallery img{
+    width: 50%;
+}
+
+.gallery img{
+    float: left;
+}
+
+h1{
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 109, 109);
+    font-size: 25px;
+}
+
+h2{
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(158, 223, 46);
+    font-size: 25px;
+
+}
+
+h3{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
